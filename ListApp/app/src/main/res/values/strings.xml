@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string name="anime">Anime</string>
+    <string name="shounen">Shounen</string>
+    <string name="shoujo">Shoujo</string>
+    <string name="title">TextView</string>
+    <string name="rating">Rating:</string>
+    <string name="episodes">Episodes:</string>
+    <string name="aired">Aired:</string>
+    <string name="genre">Genre:</string>
+    <string name="premiered">Premiered:</string>
+    <string name="studio">Studio:</string>
+    <string name="duration">Duration:</string>
+    <string name="synopsis">Synopsis:</string>
+    <string name="home">Home</string>
+    <string name="textview_n">TextView\n</string>
+</resources>
